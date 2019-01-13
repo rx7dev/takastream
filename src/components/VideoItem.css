@@ -1,0 +1,38 @@
+.video-item {
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+}
+
+.video-item.item img {
+  max-width: 180px;
+}
+
+.fullcon {
+  padding-right: 0px !important;
+  margin: 0px;
+}
+
+.vidcon {
+  padding-right: 0px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  margin: 0px;
+  background-color: #212121;
+}
+
+.footer {
+  padding-right: 0px !important;
+  padding-left: 50px !important;
+  padding-top: 50px !important;
+  margin-top: 150px !important;
+  margin: 0px;
+  min-height: 170px;
+  background-color: #212121;
+  color: #cccccc;
+  text-align: center;
+}
+
+.footer a {
+  color: #cccccc;
+}
